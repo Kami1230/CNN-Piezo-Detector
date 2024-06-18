@@ -1,0 +1,1 @@
+This code is too Analyze the performance of different piezoelectric materials based on their properties like voltage output, strain coefficients, etc and train a machine learning model to predict the performance based on material composition and structure.
